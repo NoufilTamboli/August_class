@@ -9,3 +9,6 @@ def add():
 
 def sub():
 d = c-b
+
+def div():
+	e =a/b
