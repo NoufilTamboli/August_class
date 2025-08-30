@@ -6,3 +6,6 @@ def add():
 	b =5
 	c = a+b
 	print(c)
+
+def sub():
+d = c-b
