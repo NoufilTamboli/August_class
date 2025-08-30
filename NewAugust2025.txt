@@ -12,3 +12,6 @@ d = c-b
 
 def div():
 	e =a/b
+
+def mul():
+	f = a*b
